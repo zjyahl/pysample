@@ -1,2 +1,2 @@
-print('111')
-
+a = list()
+print('2')
